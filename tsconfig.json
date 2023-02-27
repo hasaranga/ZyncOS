@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "strict": true,
+    "sourceMap": true,
+    "declaration": true,
+    "outDir": "build",
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "paths": {
+      
+    }
+  },
+  "files": [
+    "src/main.ts"
+  ],
+  "exclude": [
+    "dist","imgui"
+  ]
+}

@@ -1,0 +1,2 @@
+user app is a single window
+state of the user app is destroyed on close.
