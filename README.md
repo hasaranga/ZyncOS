@@ -2,7 +2,7 @@
 
 Programmable desktop like environment.
 
-[Live demo here...](https://hasaranga.github.io/zyncos/index.html)
+[Live demo here...](https://hasaranga.github.io/zyncos/)
 
 ![Screenshot](screenshot.png)
 
