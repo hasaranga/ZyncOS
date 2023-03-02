@@ -6,6 +6,8 @@ Programmable desktop like environment.
 
 ![Screenshot](screenshot.png)
 
+To listen radio channels on chrome: go to site settings -> allow insecure content
+
 How to build: (requires node, typescript and parcel)
 ```
 npm install
